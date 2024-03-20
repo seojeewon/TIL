@@ -10,15 +10,15 @@
   - [Spring](#spring)
 
 ## Algorithm
-- [bfs/dfs](./algorithm/bfs_dfs.md)
-- [bitmaking](./algorithm/bitmasking.md)
-  - [BOJ1285](./algorithm/BOJ1285.md)
-
-- [graph](./algorithm/graph.md)
-
+- [Tips](algorithm/general.md)
+- [BFS/DFS](./algorithm/bfs_dfs.md)
+- [Bitmaking](./algorithm/bitmasking.md)
+- [Graph](./algorithm/graph.md)
+- [Greedy](algorithm/greedy.md)
+- [Priority queue](algorithm/priority_queue.md)
 
 ## Database
-
+- [트랜잭션 격리수준](database/isolation_level.md)
 ## OS
 
 ## Network
