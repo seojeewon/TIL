@@ -1,5 +1,5 @@
 # [프로그래머스] 숫자 게임
-키워드: `#정렬`, `#투 포인터`
+키워드: `#정렬`, [`#투 포인터`](../two_pointer.md)
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12987)
 

@@ -12,7 +12,7 @@
 
 ## Algorithm
 - [Tips](algorithm/general.md)
-- [문제 모음]()
+- [문제 모음](algorithm/prob/problems.md)
 - [BFS/DFS](./algorithm/bfs_dfs.md)
 - [Bitmaking](./algorithm/bitmasking.md)
 - [Graph](./algorithm/graph.md)
