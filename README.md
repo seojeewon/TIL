@@ -47,9 +47,6 @@
 - 프로세스 동기화
   - [동기화란](os/synchronization.md)
   - [동기화 기법](os/sync_technique.md)
-    - 뮤텍스 락
-    - 세마포어
-    - 모니터
 - 교착상태
   - 개요
   - 해결 방법
