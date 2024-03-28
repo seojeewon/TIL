@@ -45,7 +45,7 @@
   ```
 
 ## 관련 문제
-[BOJ14729](https://)
+- [BOJ14729](https://github.com/seojeewon/Algorithm-Study/blob/main/priority_queue/BOJ14729.cpp)
 
 
 참고 </br>

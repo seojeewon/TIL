@@ -1,4 +1,4 @@
-# graph
+# 그래프
 그래프 = `정점(Vertex/Node)`과 `간선(Edge)`으로 이루어진 자료구조
 ![alt text](../resources/graph/graph.png)
 [출처](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
