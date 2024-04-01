@@ -2,6 +2,7 @@
 매일 배운 것을 기록합니다.
 
 - [TIL](#til)
+    - [약어 정리](#약어-정리)
   - [Algorithm](#algorithm)
   - [Database](#database)
   - [SQL](#sql)
@@ -9,6 +10,9 @@
   - [Network](#network)
   - [JAVA](#java)
   - [Spring](#spring)
+
+### 약어 정리
+- 
 
 ## Algorithm
 - [Tips](algorithm/general.md)
@@ -64,7 +68,14 @@
   - 마운트
   - 저널링 파일 시스템
 ## Network
-
+- 네트워크 계층
+  - [OSI 7계층](network/OSI_7layer.md)
+  - [TCP/IP 4계층](network/tcp_ip.md)
+- [TCP와 UDP](network/tcp_udp.md)
+- HTTP
+  - HTTPS
+- REST
+  - REST API
 ## JAVA
 
 ## Spring
