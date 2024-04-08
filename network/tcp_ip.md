@@ -32,6 +32,8 @@
 |FTP|TCP환경에서 파일 전송 프로토콜|
 |HTTP|웹상에서 정보를 주고받을 수 있는 프로토콜|
 ### [3계층] Transport Layer
+- `Application 프로세스` 간 `논리적 통신` 제공
+- 양 끝단의 신뢰성 있는 데이터 전송 보장
 - `TCP/UDP` 담당 계층
 - [TCP와 UDP](tcp_udp.md)
 
