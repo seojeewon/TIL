@@ -9,12 +9,12 @@
   - [OS](#os)
   - [Network](#network)
   - [Cloud](#cloud)
+  - [디자인패턴](#디자인패턴)
   - [JAVA](#java)
   - [Spring](#spring)
+  - [기타](#기타)
 
-### 약어 정리
-- 클라우드 서비스
-  - 
+### [약어 정리](acronym.md) 
 
 ## Algorithm
 - [Tips](algorithm/general.md)
@@ -28,7 +28,9 @@
 - [누적합](algorithm/cumulative_sum.md)
 
 ## Database
-- 인덱스()
+- 데이터베이스 최적화 방법
+  - [인덱싱](database/index.md)
+  - 쿼리 최적화
 - [트랜잭션 격리수준](database/isolation_level.md)
 
 ## SQL
@@ -83,6 +85,13 @@
 ## Cloud
 - [클라우드 서비스](cloud/service.md)
 
-## JAVA
+## 디자인패턴
+- [MVVM패턴](design%20pattern/mvvm.md)
 
+## JAVA
+- [객체 지향 프로그래밍의 4가지 특징](java/feature.md)
+- [객체 지향의 5대 설계 원칙](java/solid.md)
 ## Spring
+
+## 기타
+- Android
