@@ -47,5 +47,6 @@ B-트리는 균형을 유지하기 위해 추가적인 연산 수행하거나 �
 - `루트 노드`가 아닌 노드는 적어도 2M/3개의 자식노드
 
 참고
+- [[자료구조] 간단히 알아보는 B-Tree, B+Tree, B*Tree](https://ssocoit.tistory.com/217)
 
-[[자료구조] 간단히 알아보는 B-Tree, B+Tree, B*Tree](https://ssocoit.tistory.com/217)
+- [[DB] DB 성능 개선 방법](https://cieloinvernale.tistory.com/40)

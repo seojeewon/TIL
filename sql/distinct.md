@@ -14,3 +14,6 @@ SELECT COUNT(DISTINCT 컬럼명)
 FROM 테이블
 ```
 - 서로 다른 자료의 개수
+
+## 관련 문제
+- [[HR] New Companies](HR_newCompanies.md)
