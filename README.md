@@ -5,6 +5,7 @@
     - [약어 정리](#약어-정리)
   - [Algorithm](#algorithm)
   - [Database](#database)
+    - [Redis](#redis)
   - [SQL](#sql)
   - [OS](#os)
   - [Network](#network)
@@ -31,7 +32,11 @@
 - 데이터베이스 최적화 방법
   - [인덱싱](database/index.md)
   - 쿼리 최적화
-- [트랜잭션 격리수준](database/isolation_level.md)
+- [트랜잭션](database/transaction.md)
+  - [트랜잭션 격리수준](database/isolation_level.md)
+
+### [Redis](database/redis.md)
+
 
 ## SQL
 - [문제풀이](sql/problems.md)
@@ -86,12 +91,19 @@
 - [클라우드 서비스](cloud/service.md)
 
 ## 디자인패턴
+- [싱글톤 패턴](design%20pattern/singleton.md)
+- [MVC 패턴](design%20pattern/mvc.md)
+- [MVP 패턴](design%20pattern/mvp.md)
 - [MVVM패턴](design%20pattern/mvvm.md)
 
 ## JAVA
 - [객체 지향 프로그래밍의 4가지 특징](java/feature.md)
 - [객체 지향의 5대 설계 원칙](java/solid.md)
+- [클래스와 객체, 인스턴스](java/class.md)
+- [접근 제어자](java/access_modifier.md)
 ## Spring
-
+- Spring
 ## 기타
-- Android
+- [프레임워크와 라이브러리의 차이](else/fr_li.md)
+- [시퀀스 다이어그램](else/sequence_diagram.md)
+- [JWT](else/jwt.md)
