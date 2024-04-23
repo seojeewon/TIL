@@ -45,8 +45,10 @@
 - [문자열 자르기](sql/split.md)
 - [문자열 붙이기](sql/concat.md)
 - [반올림, 올림, 내림](sql/celing_round_floor.md)
+- [날짜 차이](sql/date.md)
 - [WITH문](sql/with.md)
 - [DISTINCT](sql/distinct.md)
+- [IN](sql/in.md)
 
 ## OS
 혼공컴운 정리
@@ -101,9 +103,12 @@
 - [객체 지향의 5대 설계 원칙](java/solid.md)
 - [클래스와 객체, 인스턴스](java/class.md)
 - [접근 제어자](java/access_modifier.md)
+- [Java Reflection](java/reflection.md)
+
 ## Spring
 - Spring
 ## 기타
 - [프레임워크와 라이브러리의 차이](else/fr_li.md)
 - [시퀀스 다이어그램](else/sequence_diagram.md)
+- [세션과 쿠키](else/session.md)
 - [JWT](else/jwt.md)
